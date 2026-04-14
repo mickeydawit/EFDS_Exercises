@@ -19,5 +19,14 @@ git add .
 git commit -m 
 git push origin main
 
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.env
+.venv
+venv/
+
+
 
 

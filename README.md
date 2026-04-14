@@ -13,4 +13,11 @@ git add README.md
 git commit -m "Update README with collaborator changes"
 git push origin main
 
+git pull origin main
+# make edits
+git add .
+git commit -m 
+git push origin main
+
+
 

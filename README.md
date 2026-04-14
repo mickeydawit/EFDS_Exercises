@@ -25,6 +25,12 @@ git push origin main
 __pycache__/
 .env
 .venv
+
+echo ".ipynb_checkpoints/" >> .gitignore
+git add .gitignore
+git commit -m "Add .gitignore"
+git push origin main
+
 venv/
 
 

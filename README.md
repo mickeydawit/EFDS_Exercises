@@ -33,6 +33,12 @@ git push origin main
 
 venv/
 
+git checkout -b feature/notes
+# edit, add, commit
+git push origin feature/notes
+# open a Pull Request on GitHub to merge
+
+
 
 
 
